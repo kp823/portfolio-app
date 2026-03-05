@@ -8,7 +8,7 @@ export default function ContactPage() {
     <div className="max-w-3xl mx-auto py-16 px-6 text-center">
       <h2 className="text-4xl font-semibold mb-4">Get In Touch</h2>
       <p className="mb-6">
-        Interested in collaborating or hiring me? Let's connect!
+        Interested in collaborating or hiring me? Let&apos;s connect!
       </p>
       <motion.div
         initial={{ opacity: 0 }}

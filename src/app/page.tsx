@@ -14,7 +14,7 @@ export default function HomePage() {
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
         >
-          Hi, I'm Krupal Pansheriya 👋
+          Hi, I&apos;m Krupal Pansheriya 👋
         </motion.h1>
         <motion.p
           className="mt-4 text-lg md:text-xl max-w-2xl"

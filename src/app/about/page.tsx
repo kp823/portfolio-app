@@ -3,7 +3,7 @@ export default function AboutPage() {
       <div className="max-w-3xl mx-auto py-16 px-6">
         <h2 className="text-4xl font-semibold mb-6">About Me</h2>
         <p className="mb-4">
-          I'm John Doe, a full-stack developer with 6+ years of experience building
+          I&apos;m John Doe, a full-stack developer with 6+ years of experience building
           applications using modern web technologies like React, Next.js, Node.js, and TypeScript.
         </p>
         <p>
